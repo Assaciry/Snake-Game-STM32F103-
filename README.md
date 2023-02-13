@@ -1,7 +1,7 @@
 # Snake-Game-STM32F103-
 Classic Snake game implementation on an STM32F103 (Bluepill) microcontroller with Nokia 5110 LCD screen
 
-<img src="board.jpeg" alt="Alt text" title="Optional title">
+<img src="board.jpeg" alt="Snake game board image" title="Image of the breadboard"  width="200" height="400">
 
 ## Required Parts
 * STM32F103C8 MCU                           x1

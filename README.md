@@ -11,3 +11,6 @@ Classic Snake game implementation on an STM32F103 (Bluepill) microcontroller wit
 * 10uF ceramic capacitor (for debouncing)   x4
 * Jumper wires
 
+<img src="board_game_play.gif" alt="Gameplay">
+
+<img src="board_game_over.gif" alt="Gameplay">

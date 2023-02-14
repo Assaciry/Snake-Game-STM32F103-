@@ -3,7 +3,7 @@ Classic Snake game implementation on an STM32F103 (Bluepill) microcontroller wit
 
 <img src="board.jpeg" alt="Snake game board image" title="Image of the breadboard"  width="334" height="196">
 
-<img src="board_game_play.gif" alt="Gameplay" width = "191" height = "164"> <img src="board_game_over.gif" alt="Gameplay" width = "179" height = "154">
+<img src="board_game_play.gif" alt="Gameplay" width = "191" height = "164">   <img src="board_game_over.gif" alt="Gameplay" width = "191" height = "164">
 
 ## Required Parts
 * STM32F103C8 MCU                           x1
